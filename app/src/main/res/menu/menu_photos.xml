@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.androidphotos.SlideshowActivity" >
+
+    <item
+        android:id="@+id/Delete"
+        android:orderInCategory="100"
+        android:title="@string/Delete"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/EditTags"
+        android:orderInCategory="100"
+        android:title="@string/EditTags"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/MovePhoto"
+        android:orderInCategory="100"
+        android:title="@string/MovePhoto"
+        app:showAsAction="never" />
+</menu>

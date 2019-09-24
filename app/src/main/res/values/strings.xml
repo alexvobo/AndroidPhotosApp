@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidPhotos</string>
+    <string name="action_settings">Search</string>
+    <string name="navLabel">navLabel</string>
+    <string name="albumNav">Albums</string>
+    <string name="previousPic"><![CDATA[<<]]></string>
+    <string name="nextPic"><![CDATA[>>]]></string>
+    <string name="Rename">Rename</string>
+    <string name="Delete">Delete</string>
+    <string name="EditTags">Edit Tags</string>
+    <string name="MovePhoto">Move Photo</string>
+</resources>
